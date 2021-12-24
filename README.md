@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nav-j0t [Navjot B]
-- 👀 I’m interested in FullStack Web Development
-- 🌱 I’m currently learning Back-end fundamentals & some hands-on with Front-end
+- 👀 I’m interested in Networking and some webDevelopment.
+- 🌱 I’m currently learning Networking and Back-end fundamentals
 - 🖥 Want to collab 
 
 <!---
