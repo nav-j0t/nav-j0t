@@ -15,12 +15,10 @@
 
 <br />
 
-<details>
-  <summary>:cheers: GitHub Stats</summary>
 
-  <img align="left" alt="Navjot's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nav-j0t&show_icons=true&hide_border=true&theme=dracula" />
 
-</details>
+  ![Navjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=nav-j0t&show_icons=true&theme=radical)
+
 
 <!---
 nav-j0t/nav-j0t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
