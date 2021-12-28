@@ -13,7 +13,14 @@
 
 <br />
 
+<br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="gursharan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gursharan4312&show_icons=true&hide_border=true&theme=dracula" />
+
+</details>
 
 <!---
 nav-j0t/nav-j0t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
