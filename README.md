@@ -16,9 +16,9 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:cheers: GitHub Stats</summary>
 
-  <img align="left" alt="gursharan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gursharan4312&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="Navjot's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nav-j0t&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
 
