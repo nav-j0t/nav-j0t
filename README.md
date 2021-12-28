@@ -1,4 +1,5 @@
-- 👋 Hi, I’m [Navjot B]
+## Hey, Navjot Bedi here
+
 - 👀 I’m interested in Networking and some webDevelopment.
 - 🌱 I’m currently learning Network Security and Penetration fundamentals
 - 🖥 Want to collab on web development projects 
