@@ -17,7 +17,7 @@
 
 
 
-  ![Navjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=nav-j0t&show_icons=true&theme=dracula&hide_border)
+  ![Navjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=nav-j0t&show_icons=true&theme=dracula)
 
 
 <!---
