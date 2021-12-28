@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[website]: 
+[website]: https://google.ca/
 [instagram]: https://www.instagram.com/nav.jot.bedi/
 [linkedin]: https://www.linkedin.com/in/navjotsinghbedi2001/
